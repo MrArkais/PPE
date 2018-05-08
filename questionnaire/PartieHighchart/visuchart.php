@@ -1,5 +1,4 @@
 <?php
-
 	$idquest = $_POST["idquest"];
 
 	require 'DbCnx.php';

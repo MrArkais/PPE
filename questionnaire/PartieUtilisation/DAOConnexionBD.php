@@ -1,5 +1,5 @@
 <?php
-class DbCnx {
+class DAOConnexionBD{
 	private $db;
 	
 	public function __construct(){
@@ -10,4 +10,4 @@ class DbCnx {
 		return $this->db;
 	}
 }
-	?>
+?>
